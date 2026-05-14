@@ -1,4 +1,4 @@
-# 
+# rare OBS Studio for macOS LUT | multi-cam-editing + compressor is the best OBS Studio for macOS lut, featuring multi-cam-editing and compressor. Safe, efficient, and optimized for
 
 
 
